@@ -2,9 +2,9 @@
 /*
 Plugin Name: Tachyons-CSS-Tiny
 Description: Enqueues Tachyons CSS Framework
-Plugin URI: http://tachyons.io
+Plugin URI: https://github.com/DakotaLMartinez/wp-tachyons
 Author: Dakota Lee Martinez
-Author URI: http://sandrakota.com
+Author URI: http://github.com/DakotaLMartinez
 Version: 1.0
 License: GPL2
 Text Domain: dlm
